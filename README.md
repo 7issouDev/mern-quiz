@@ -34,7 +34,7 @@ composeWithDevTools(applyMiddleware(...middlewares));
 
 ### About Github:
 
-_NOTE: **I Forget the Github pushing Commands**_
+_NOTE: **I Forget the Github pushing Commands, instead, I'll use the git first linking commands repo**_
 
 1. git init
 2. git add
