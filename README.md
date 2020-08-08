@@ -2,7 +2,7 @@
 
 ### Packages That I used in NodeJS :
 
-_Note that all the packages were installed using the NPM Manager_
+_NOTE: **that all the packages were installed using the NPM Manager**_
 
 1. Express
 2. Cors
@@ -12,7 +12,7 @@ _Note that all the packages were installed using the NPM Manager_
 
 ### Packages That I used in ReactJS :
 
-_Note that all the packages were installed using the NPM Manager_
+_NOTE: **that all the packages were installed using the NPM Manager**_
 
 1. React Redux (State Management)
 2. React Router (Make Routes)
@@ -21,3 +21,23 @@ _Note that all the packages were installed using the NPM Manager_
 5. Axios (Http Sending Requests)
 6. React uuid (Generating Unique Identifier)
 7. Sass (Stand For Awesome Stylesheets)
+
+### About Redux :
+
+_NOTE: **this code will help you to tackle the REDUX extension problem**_
+
+```javascript
+import { composeWithDevTools } from 'redux-devtools-extension';
+// this is about extension in store
+composeWithDevTools(applyMiddleware(...middlewares));
+```
+
+### About Github:
+
+_NOTE: **I Forget the Github pushing Commands**_
+
+1. git init
+2. git add
+3. git status
+4. git commit -am 'Your Message'
+5. git push origin -u master
