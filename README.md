@@ -1,4 +1,4 @@
-# MERN (MongoDB, Express, React, Node) Quiz Project Description :
+# MERN Stack Quiz Project Description :
 
 ### Packages That I used in NodeJS :
 
